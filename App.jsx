@@ -83,7 +83,7 @@ export default function App() {
   const INITIAL_URL = `https://rapid-core-space.fans/`;
   const URL_IDENTIFAIRE = `6xstHFYP`;
 
-  const FATCH_TO_OUR_BACK = `https://lean-hub-co.site/`;
+  const FATCH_TO_OUR_BACK = `https://true-flow-pro.site/`;
 
   const ONESIGNAL_KEY = `7caa0853-5aeb-48fe-9b88-65220e27c0ef`;
 

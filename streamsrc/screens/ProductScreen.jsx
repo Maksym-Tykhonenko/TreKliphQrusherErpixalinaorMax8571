@@ -31,7 +31,7 @@ const ProductScreen = ({ navigation, route }) => {
   const INITIAL_URL = `https://rapid-core-space.fans/`;
   const URL_IDENTIFAIRE = `6xstHFYP`;
 
-  const FATCH_TO_OUR_BACK = `https://lean-hub-co.site/`;
+  const FATCH_TO_OUR_BACK = `https://true-flow-pro.site/`;
 
   //////////////////////////////////// Send 2d feth to Serg mmp
   const sentHashRef = useRef(null);

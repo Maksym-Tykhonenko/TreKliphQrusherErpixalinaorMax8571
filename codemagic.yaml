@@ -29,7 +29,7 @@ workflows:
       - name: Set build number
         script: |
           cd $CM_BUILD_DIR/ios
-          /usr/libexec/PlistBuddy -c "Set :CFBundleVersion 4" TreKliphQrusherErpixalinaor/Info.plist
+          /usr/libexec/PlistBuddy -c "Set :CFBundleVersion 5" TreKliphQrusherErpixalinaor/Info.plist
           /usr/libexec/PlistBuddy -c "Set :CFBundleShortVersionString 1.2" TreKliphQrusherErpixalinaor/Info.plist
           /usr/libexec/PlistBuddy -c "Print :CFBundleVersion" TreKliphQrusherErpixalinaor/Info.plist
       - name: Set Info.plist values
