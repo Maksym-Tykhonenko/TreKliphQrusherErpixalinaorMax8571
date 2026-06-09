@@ -92,11 +92,11 @@ export default function App() {
   const APS_DEV_KEY = 'S2XSefMbc2XcYGFTcekTfc';
   const APP_ID = '6772095467';
 
-  useEffect(() => {
+  //useEffect(() => {
 
-    requestTrackingPermission();
+    //requestTrackingPermission();
     
-  }, []);
+  //}, []);
 
   useEffect(() => {
     const fetchData = async () => {
